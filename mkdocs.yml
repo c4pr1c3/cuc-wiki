@@ -1,0 +1,56 @@
+# Project Information
+site_name: 传媒信安教学 Wiki
+site_description: 黄药师的个人教学 Wiki
+site_author: 黄药师
+site_url: https://sec.cuc.edu.cn
+
+# Repository
+repo_name: 'c4pr1c3/cuc-wiki'
+repo_url: 'https://github.com/c4pr1c3/cuc-wiki'
+edit_uri: 'blob/master/docs/'
+
+use_directory_urls: false
+
+pages:
+ - '首页': 'index.md'
+ - '课程列表': 
+   - '密码学应用实践': 'ac.md'
+   - '信息安全综合实践': 'cp.md'
+   - '网络安全': 'ns.md'
+   - '移动互联网安全': 'mis.md'
+   - 'Linux 系统与网络管理': 'linux.md'
+   - '数据结构A': 'ds.md'
+ - '密码学应用实践':
+   - '2019年': 'ac/2019/index.md'
+ - '信息安全综合实践':
+   - '2019年': 'cp/2019/index.md'
+ - '网络安全':
+   - '2019年': 'ns/2019/index.md'
+ - '移动互联网安全':
+   - '2019年': 'mis/2019/index.md'
+ - 'Linux 系统与网络管理':
+   - '2019年': 'linux/2019/index.md'
+ - '数据结构 A':
+   - '2017年': 'ds/2017/index.md'
+
+# Theme
+theme:
+  name: 'material'
+  language: 'zh'
+  palette:
+    primary: 'white'
+    accent: 'red'
+  logo:
+    icon: 'school'
+  feature:
+    tabs: true
+  font:
+    text: 'Fira Sans'
+    code: 'Fira Mono'
+
+plugins:
+    - search
+
+markdown_extensions:
+  - admonition
+  - codehilite
