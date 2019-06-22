@@ -1,3 +1,3 @@
 [submodule "docs/courses"]
 	path = docs/courses
-	url = git@github.com:c4pr1c3/cuc-courses.git
+	url = https://github.com/c4pr1c3/cuc-courses.git
