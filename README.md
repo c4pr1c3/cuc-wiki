@@ -1,3 +1,4 @@
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 新教学 Wiki （2019）的全部源代码，基于 [mkdocs](http://www.mkdocs.org/) 。
 
