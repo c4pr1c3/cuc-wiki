@@ -46,7 +46,7 @@ Linux是网络应用领域中广泛使用的一种主流操作系统。通过本
 * 用户/组与权限管理：su与sudo、passwd、adduser/useradd、groupadd/addgroup、usermod、getfacl/setfacl等命令的使用
 * 文件系统与存储管理：文件系统类型与格式化、磁盘分区、存储设备与文件系统挂载（开机自动挂载、网络文件系统挂载、iso文件挂载等）、基于LVM（逻辑分卷管理）的分区容量动态调整
 * 文件备份与恢复（文件和目录属主信息的保存）等
-* 开机自启动项管理：系统加载流程（[https://wiki.archlinux.org/index.php/systemd_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) Systemd]、[https://wiki.debian.org/LSBInitScripts LSBInitScripts])
+* 开机自启动项管理：系统加载流程（[Systemd](https://wiki.archlinux.org/index.php/systemd_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) )、[LSBInitScripts](https://wiki.debian.org/LSBInitScripts) )
 * 配置每天自动安装安全更新
 
 [在线查看课件](https://github.com/c4pr1c3/LinuxSysAdmin/blob/master/chap0x03.md)
@@ -62,7 +62,7 @@ Linux是网络应用领域中广泛使用的一种主流操作系统。通过本
 第五章：Web服务器（2学时）
 
 * Web服务基本概念：HTTP请求处理的生命周期
-* 主流WEB服务器：apache 1.x/2.x、nginx（衍生发行版：[https://github.com/openresty/openresty OpenResty]、[https://github.com/Mashape/kong Kong]、[http://tengine.taobao.org/ Tengine]）
+* 主流WEB服务器：apache 1.x/2.x、nginx（衍生发行版：[OpenResty](https://github.com/openresty/openresty)、[Kong](https://github.com/Mashape/kong)、[Tengine](http://tengine.taobao.org/)）
 * 用curl和nginx重新认识和学习HTTP协议
 
 [在线查看课件](https://github.com/c4pr1c3/LinuxSysAdmin/blob/master/chap0x05.md)
@@ -88,7 +88,7 @@ Linux是网络应用领域中广泛使用的一种主流操作系统。通过本
 第八章：DevOps文化、运维自动化与持续部署（4学时）
 
 * 发布管理：开发环境、测试环境与生产环境的一致性（代码、数据、网络、系统运行时、依赖的lib等）、上线与回滚
-* 主流技术工具链：git（github/gitlab）、[https://www.ansible.com/ ansible]（puppet、chef、salt等）、docker（dockerfile/k8s/dockerhub）、openstack（KVM、Xen）、openvswitch、tcpreplay
+* 主流技术工具链：git（github/gitlab）、[ansible](https://www.ansible.com/)（puppet、chef、salt等）、docker（dockerfile/k8s/dockerhub）、openstack（KVM、Xen）、openvswitch、tcpreplay
 
 [在线查看课件](https://github.com/c4pr1c3/LinuxSysAdmin/blob/master/chap0x08.md) | [PXE](https://github.com/c4pr1c3/LinuxSysAdmin/blob/master/PXE.md) | [ansible](https://github.com/c4pr1c3/LinuxSysAdmin/blob/master/ansible.md) 
 
