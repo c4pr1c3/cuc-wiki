@@ -30,7 +30,7 @@
 
 重点内容：访问控制理论、CVSS理论、风险评估案例分析。
 
-[在线观看教学PPT](../../courses/2016/nsLecture0x02.pdf) | [CVSS 2.0官方指南（英文）PDF](../../courses/2014_2/cvss-guide.pdf) | [CVSS 3.0官方指南（英文）PDF](../../courses/2014_2/cvss-v30-specification-v1.7.pdf)
+[在线观看教学PPT](../../courses/2016/nsLecture0x02.pdf) | [CVSS 2.0官方指南（英文）PDF](../../courses/2014_2/cvss-guide.pdf) | [CVSS 3.0官方指南（英文）PDF](../../courses/2016/cvss-v30-specification-v1.7.pdf)
 
 3．网络安全应用基础（2学时）
 

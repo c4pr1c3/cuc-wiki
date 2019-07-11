@@ -27,7 +27,7 @@
 1. CTF 个人赛；
 2. 创新实践能力团队赛；
 
-其中，「创新实践能力团队赛」参考 [第十二届全国大学生信息安全竞赛创新实践能力赛 分区选拔赛应用场景开发需求](http://www.ciscn.cn/announcement/view/122) 和 [第十二届全国大学生信息安全竞赛-创新实践能力赛 线下分区选拔赛参赛指南](http://www.ciscn.cn/announcement/view/126) 。
+其中，「创新实践能力团队赛」参考 [第十二届全国大学生信息安全竞赛创新实践能力赛 分区选拔赛应用场景开发需求](http://www.ciscn.cn/announcement/view/122) 、 [第十二届全国大学生信息安全竞赛-创新实践能力赛 线下分区选拔赛参赛指南](http://www.ciscn.cn/announcement/view/126) 和我们的[具体评分标准](../assessment.md)。
 
 
 1. CTF 个人赛 3 天
