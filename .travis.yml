@@ -1,0 +1,19 @@
+language: python
+
+python:
+  - "3.6"
+
+notifications:
+  email:
+    on_success: never
+
+install:
+  - pip install mkdocs mkdocs-material pygments
+  - echo -e "machine github.com\n  login ${GITHUB_TOKEN}" > ~/.netrc
+
+script:
+  - mkdocs gh-deploy --force --clean
+
+branches:
+  only:
+    - master
