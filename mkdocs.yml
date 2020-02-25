@@ -30,6 +30,7 @@ pages:
    - '2019年': 'mis/2019/index.md'
  - 'Linux 系统与网络管理':
    - '2019年': 'linux/2019/index.md'
+   - '2020年': 'linux/2020/index.md'
  - '数据结构 A':
    - '2017年': 'ds/2017/index.md'
 
