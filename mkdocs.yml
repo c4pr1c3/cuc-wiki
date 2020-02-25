@@ -2,7 +2,7 @@
 site_name: 传媒信安教学 Wiki
 site_description: 黄药师的个人教学 Wiki
 site_author: 黄药师
-site_url: https://sec.cuc.edu.cn
+site_url: https://c4pr1c3.github.io/cuc-wiki
 
 # Repository
 repo_name: 'c4pr1c3/cuc-wiki'
@@ -29,8 +29,8 @@ pages:
  - '移动互联网安全':
    - '2019年': 'mis/2019/index.md'
  - 'Linux 系统与网络管理':
-   - '2019年': 'linux/2019/index.md'
    - '2020年': 'linux/2020/index.md'
+   - '2019年': 'linux/2019/index.md'
  - '数据结构 A':
    - '2017年': 'ds/2017/index.md'
 
