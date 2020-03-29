@@ -40,20 +40,18 @@
 
 ## 2020-04-21
 
-* [第四章 Shell脚本编程基础 (01:29:01) P1](https://www.bilibili.com/video/av86468696)
+* [第四章 Shell脚本编程基础 (01:44:02) ](https://www.bilibili.com/video/av86468696)
 * 交流与答疑
 
 ## 2020-04-28
 
-* [第四章 Shell脚本编程基础 (59:19) P2](https://www.bilibili.com/video/av86468696?p=2)
 * [课内补丁视频：Shell 脚本编程示例 - JSON 爬虫 (54:44)](https://www.bilibili.com/video/BV1ME411N76f)
 * 交流与答疑
 * 第四章实验
 
 ## 2020-05-05
 
-* [第五章 Web服务器 (01:01:11) P1](https://www.bilibili.com/video/av86469421)
-* [第五章 Web服务器 (13:25) P2](https://www.bilibili.com/video/av86469421?p=2)
+* [第五章 Web服务器 (01:34:22) ](https://www.bilibili.com/video/av86469421)
 * 交流与答疑
 
 ## 2020-05-12
