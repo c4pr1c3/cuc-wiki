@@ -8,7 +8,7 @@ notifications:
     on_success: never
 
 install:
-  - pip install mkdocs mkdocs-material pygments
+  - pip install mkdocs mkdocs-material==4.6.3 pygments
   - echo -e "machine github.com\n  login ${GITHUB_TOKEN}" > ~/.netrc
 
 script:
