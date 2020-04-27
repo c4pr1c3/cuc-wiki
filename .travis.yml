@@ -8,11 +8,14 @@ notifications:
     on_success: never
 
 install:
-  - pip install mkdocs mkdocs-material==4.6.3 pygments
+  - pip install -r requirements.txt
   - echo -e "machine github.com\n  login ${GITHUB_TOKEN}" > ~/.netrc
 
-script:
-  - mkdocs gh-deploy --force --clean
+script: 
+  - mkdocs build
+
+after_success:
+  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" -a "$TRAVIS_BRANCH" = "master" ];then mkdocs gh-deploy --force --clean; fi'
 
 branches:
   only:
