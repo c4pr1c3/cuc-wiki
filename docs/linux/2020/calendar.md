@@ -62,7 +62,7 @@
 ## 2020-05-19
 
 * [第六章 网络资源共享 (52:01)](https://www.bilibili.com/video/av86469945)
-* [第七章 DHCP与DNS服务 (28:06)](https://www.bilibili.com/video/av86474973)
+* [第七章 DHCP与DNS服务 (36:42)](https://www.bilibili.com/video/av86474973)
 * [第八章 DevOps文化、运维自动化与持续部署 (24:28) P1](https://www.bilibili.com/video/av86475789)
 * 交流与答疑
 
