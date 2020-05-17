@@ -56,6 +56,7 @@
 
 ## 2020-05-12
 
+* [ 第五章 课后 FAQ (40:51)](https://www.bilibili.com/video/BV1de411p7Vq/)
 * 交流与答疑
 * 第五章实验
 
@@ -79,11 +80,13 @@
 ## 2020-06-09
 
 * [第八章 DevOps文化、运维自动化与持续部署 (17:47) P3](https://www.bilibili.com/video/av86475789?p=3)
+* [（可选）第八章番外篇: 实战入门 Cloud-Init (01:22:47)](https://www.bilibili.com/video/BV1Cf4y1U7pQ)
 * 交流与答疑
 * 第七章实验
 
 ## 2020-06-16
 
+* [（可选）第八章番外篇: Ansible (01:21:00)](https://www.bilibili.com/video/BV1kZ4y1p7Na)
 * 第八章实验
 * 交流与答疑
 
