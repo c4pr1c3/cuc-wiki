@@ -3,5 +3,6 @@
 
 * [2019年课表](linux/2019/index.md)
 * [2020年课表](linux/2020/index.md)
+* [2021年课表](linux/2021/index.md)
 
 

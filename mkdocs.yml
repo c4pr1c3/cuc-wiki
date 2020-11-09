@@ -30,6 +30,7 @@ pages:
  - '移动互联网安全':
    - '2019年': 'mis/2019/index.md'
  - 'Linux 系统与网络管理':
+   - '2021年': 'linux/2021/index.md'
    - '2020年': 'linux/2020/index.md'
    - '2019年': 'linux/2019/index.md'
  - '数据结构 A':
