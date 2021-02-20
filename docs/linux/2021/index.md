@@ -2,6 +2,8 @@
 
 ## 一、课程基本信息
 
+<img align="right" src="../img/url-of-linux-wiki.png"/>
+
 * 课程编号：2121030017
 * 英文名称：Linux System and Network Management
 * 授课对象：信息安全，软件工程
@@ -28,7 +30,7 @@ Linux是网络应用领域中广泛使用的一种主流操作系统。通过本
 * 操作系统安装：物理机安装、虚拟机安装、系统分区、无人值守安装等
 * 内置帮助系统的使用：man、--help、-h
 * 命令行使用：shell家族、自动补全、重复命令输入等bash常用快捷键、文本编辑与查看（echo、cat、less、vim、sort、uniq、wc等）
-* SSH与远程服务器管理：免密登陆、SSH跳板与堡垒主机、SSH服务器安全加固
+* SSH与远程服务器管理：免密登录、SSH跳板与堡垒主机、SSH服务器安全加固
 
 [在线查看课件](https://c4pr1c3.github.io/LinuxSysAdmin/chap0x01.md.html)
 
