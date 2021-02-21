@@ -1,10 +1,17 @@
 # 2021 春教学日历
 
-## 第一周（线下）
+## 上课前准备
+
+* 请大家提前在 `Virtualbox` 中安装好 `Ubuntu 20.04` 系统
+* 自己搞不定手动安装过程的可以直接[导入我安装好的虚拟机](https://docs.oracle.com/cd/E36500_01/E36513/html/qs-import-vm.html)，如下所示
+
+链接: https://pan.baidu.com/s/1nZ3-kiYz_gOeZeRKMgw3tA 提取码: cadd 复制这段内容后打开百度网盘手机App，操作更方便哦 
+
+## 第一周（线上）
 
 第一章： Linux基础（2学时），详见[教学计划 - 三、教学内容与学时分配](index.md#_4)
 
-## 第二周（线下）
+## 第二周（线上）
 
 第一章实验
 

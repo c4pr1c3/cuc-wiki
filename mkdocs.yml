@@ -28,6 +28,7 @@ pages:
    - '2020年': 'ns/2020/index.md'
    - '2019年': 'ns/2019/index.md'
  - '移动互联网安全':
+   - '2021年': 'mis/2021/index.md'
    - '2019年': 'mis/2019/index.md'
  - 'Linux 系统与网络管理':
    - '2021年': 'linux/2021/index.md'
