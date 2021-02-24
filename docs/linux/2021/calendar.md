@@ -7,6 +7,13 @@
 
 链接: https://pan.baidu.com/s/1nZ3-kiYz_gOeZeRKMgw3tA 提取码: cadd 复制这段内容后打开百度网盘手机App，操作更方便哦 
 
+本年度所有授课视频将集中在 [B 站这个视频链接](https://www.bilibili.com/video/BV1Hb4y1R7FE?p=1) 下每周随授课进度更新一次。
+
+视频选集的编号命名规则 X.Y.：
+
+* X. 表示第几章
+* Y. 表示该章第几个视频片段
+
 ## 第一周（线上）
 
 第一章： Linux基础（2学时），详见[教学计划 - 三、教学内容与学时分配](index.md#_4)
