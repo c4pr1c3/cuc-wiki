@@ -11,7 +11,7 @@ edit_uri: 'blob/master/docs/'
 
 use_directory_urls: false
 
-pages:
+nav:
  - '首页': 'index.md'
  - '课程列表': 
    - '密码学应用实践': 'ac.md'
@@ -21,8 +21,10 @@ pages:
    - 'Linux 系统与网络管理': 'linux.md'
    - '数据结构A': 'ds.md'
  - '密码学应用实践':
+   - '2021年': 'ac/2021/index.md'
    - '2019年': 'ac/2019/index.md'
  - '信息安全综合实践':
+   - '2021年': 'cp/2021/index.md'
    - '2019年': 'cp/2019/index.md'
  - '网络安全':
    - '2021年': 'ns/2021/index.md'
