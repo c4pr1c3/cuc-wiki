@@ -1,6 +1,6 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-新教学 Wiki （2019）的全部源代码，基于 [mkdocs](http://www.mkdocs.org/) 。
+新教学 Wiki （2022）的全部源代码，基于 [mkdocs](http://www.mkdocs.org/) 。
 
 本项目的部分代码正常检出需要预先安装和配置好 [git-lfs](https://github.com/git-lfs/git-lfs/wiki/Installation) 。
 
