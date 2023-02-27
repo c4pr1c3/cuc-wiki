@@ -13,6 +13,7 @@
 * 教学方式：课内（线上）讲授，上机实验
 * [详细教学日历](calendar.md)
 * [本学期课程考核规则](homework.md)
+* [2021 年完整课程视频回放](https://www.bilibili.com/video/BV1Hb4y1R7FE)
 
 ### 课程简介
 
