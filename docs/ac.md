@@ -1,10 +1,11 @@
 
 ## 教学计划 
 
-* [2022年小学期课表](ac/2022/index.md)
+* [2023年小学期课表](ac/2023/index.md)
 
 ## 存档
 
+* [2022年小学期课表](ac/2022/index.md)
 * [2021年小学期课表](ac/2021/index.md)
 * [2019年小学期课表](ac/2019/index.md)
 * [2018年小学期课表](https://sec.cuc.edu.cn/huangwei/wiki/teaching_ac_2018_calendar.html)
