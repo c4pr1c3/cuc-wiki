@@ -101,7 +101,7 @@ Linux是网络应用领域中广泛使用的一种主流操作系统。通过本
 
 - H1 [主流 Linux 发行版初体验（2学时）：本地实验环境和云实验环境](https://c4pr1c3.github.io/LinuxSysAdmin/chap0x01.exp.md.html) ⭐️⭐️
 - H2 [Linux命令行使用基础（2学时）：本地实验环境和云实验环境](https://c4pr1c3.github.io/LinuxSysAdmin/chap0x02.exp.md.html) ⭐️⭐️
-- H3 开机自启动项管理（2学时）⭐️⭐️
+- H3 [开机自启动项目管理与网络故障排查](https://c4pr1c3.github.io/LinuxSysAdmin/chap0x03.exp.md.html)（2学时）⭐️⭐️
 - H4 [shell脚本编程练习基础（2学时）：文本处理（考察去重、统计、排序等操作）、文件批量重命名（简单重命名规则、复杂重命名规则）](https://c4pr1c3.github.io/LinuxSysAdmin/chap0x04.exp.md.html) ⭐️⭐️⭐️⭐️⭐️
 - H5 [支持反向代理、流量控制、关键词过滤等功能的高级Web服务器配置（2学时）](https://c4pr1c3.github.io/LinuxSysAdmin/chap0x05.exp.md.html) ⭐️⭐️⭐️⭐️
 - H6 【**提交到私有作业仓库**】[shell脚本编程练习进阶（2学时）：FTP、NFS、DHCP、DNS、Samba服务器的自动安装与自动配置](https://c4pr1c3.github.io/LinuxSysAdmin/chap0x06.exp.md.html) ⭐️⭐️⭐️⭐️⭐️
