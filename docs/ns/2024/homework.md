@@ -8,7 +8,7 @@
 
 ## 总成绩评定规则
 
-* 详见 [在线成绩计算器](https://docs.qq.com/sheet/DVUVMalZWRnFZd0lQ?tab=BB08J2) 中的示例数据和具体单元格的计算公式
+* 详见 [在线成绩计算器](https://docs.qq.com/sheet/DVUxyT0VCcXdDZ2hE?tab=BB08J2) 中的示例数据和具体单元格的计算公式
     * 实验报告总分
     * 总分
 * 实验报告要求继承上学期 《Linux 系统与网络管理》课程的实验报告要求
