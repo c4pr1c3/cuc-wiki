@@ -25,7 +25,8 @@ nav:
    - '2022年': 'ac/2022/index.md'
    - '2021年': 'ac/2021/index.md'
    - '2019年': 'ac/2019/index.md'
- - '信息安全综合实践':
+ - '网络空间安全综合实践':
+   - '2025年': 'cp/2025/index.md'
    - '2024年': 'cp/2024/index.md'
    - '2023年': 'cp/2023/index.md'
    - '2022年': 'cp/2022/index.md'
@@ -42,6 +43,7 @@ nav:
    - '2021年': 'mis/2021/index.md'
    - '2019年': 'mis/2019/index.md'
  - 'Linux 系统与网络管理':
+   - '2025年': 'linux/2025/index.md'
    - '2024年': 'linux/2024/index.md'
    - '2023年': 'linux/2023/index.md'
    - '2022年': 'linux/2022/index.md'
