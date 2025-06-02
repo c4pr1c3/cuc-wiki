@@ -1,4 +1,4 @@
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/c4pr1c3/cuc-wiki)
 
 新教学 Wiki （2024）的全部源代码，基于 [mkdocs](http://www.mkdocs.org/) 。
 
