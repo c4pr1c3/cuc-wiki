@@ -89,6 +89,11 @@ bcc3c70b27fcbcd8ec02d8961c2483676085a833ea32d1989494ad6e43a774b8  Debian10.vdi.z
 
 * 第七章 Web 应用漏洞攻防（实验）
 
+H7 的实验报告补充要求：
+
+1. 实验环境要求使用 `Yakit` 的远程模式完成实验。宿主机安装 Yakit 客户端，虚拟机（`Attacker`）安装 Yakit 服务器端，虚拟机（`Victim`）安装靶机容器环境。
+2. 实验内容要求以 [《网络安全》课本第7章实验](https://c4pr1c3.github.io/cuc-ns/chap0x07/exp.html) 为准。
+
 ## 2025.11.24 第12周 线下
 
 * 第八章 防火墙
