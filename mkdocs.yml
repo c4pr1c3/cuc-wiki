@@ -15,7 +15,7 @@ nav:
  - '首页': 'index.md'
  - '课程列表': 
    - '密码学应用实践': 'ac.md'
-   - '信息安全综合实践': 'cp.md'
+   - '网络空间安全综合实践': 'cp.md'
    - '网络安全': 'ns.md'
    - '移动互联网安全': 'mis.md'
    - 'Linux 系统与网络管理': 'linux.md'
@@ -26,6 +26,9 @@ nav:
    - '2021年': 'ac/2021/index.md'
    - '2019年': 'ac/2019/index.md'
  - '网络空间安全综合实践':
+   - '2026年': 'cp/2026/1_overview.md'
+   - '选题清单': 'cp/2026/2_topics.md'
+   - '评价标准': 'cp/2026/3_evaluation.md'
    - '2025年': 'cp/2025/index.md'
    - '2024年': 'cp/2024/index.md'
    - '2023年': 'cp/2023/index.md'
@@ -44,6 +47,7 @@ nav:
    - '2021年': 'mis/2021/index.md'
    - '2019年': 'mis/2019/index.md'
  - 'Linux 系统与网络管理':
+   - '2026年': 'linux/2026/index.md'
    - '2025年': 'linux/2025/index.md'
    - '2024年': 'linux/2024/index.md'
    - '2023年': 'linux/2023/index.md'
